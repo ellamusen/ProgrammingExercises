@@ -12,7 +12,7 @@ public class Exercise_2_9_physics_acceleration {
         System.out.println("Physics: Acceleration");
         // Prompt the user to enter the starting velocty (v0) in meters/second
         // Prompt the user to enter the ending velocity (v1) in meters/seconds
-        // Prompt the user to enter and the time span in seconds
+        // Prompt the user to enter and the time span (t) in seconds
         System.out.print("Enter v0, v1 and t: ");
 
         double v0 = input.nextDouble();
