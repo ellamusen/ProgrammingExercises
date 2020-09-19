@@ -10,6 +10,7 @@ public class Exercise_2_16_geometry_areaofahexagon {
 
         Scanner input = new Scanner(System.in);
 
+        // Prompt user to enter the length of the side
         System.out.print("Enter the length of the side: ");
         double length = input.nextDouble();
 
@@ -21,5 +22,4 @@ public class Exercise_2_16_geometry_areaofahexagon {
         // Display result
         System.out.println("The area of the hexagon is " + area);
     }
-
 }
