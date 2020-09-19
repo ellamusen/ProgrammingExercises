@@ -1,10 +1,25 @@
 package Chapter_2;
 
+import java.util.Scanner;
+
 public class Exercise_2_16_geometry_areaofahexagon {
 
-    // Members / values to class
+    public static void main(String[] args) {
 
+        System.out.println("Geometry: Area of a hexagon");
 
-    // Methods
+        Scanner input = new Scanner(System.in);
+
+        System.out.print("Enter the length of the side: ");
+        double length = input.nextDouble();
+
+        // Break up the equation
+        double sqrt = 3 * Math.sqrt(3);
+        double pow = Math.pow(length, 2);
+        double area = (sqrt / 2) * pow;
+
+        // Display result
+        System.out.println("The area of the hexagon is " + area);
+    }
 
 }
