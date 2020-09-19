@@ -17,7 +17,7 @@ public class Exercise_2_13_financialapplication_compoundvalue {
 
         int month = 6;
         for (int i = 1; i <= month; i++) {
-            if (i == 1) { // The first month has its own formular, which is different in all the other months
+            if (i == 1) { // The first month has its own formula, which is different in all the other months
                 balance = savings * interestRate;
             }
             else { // The formula for every other month than the first
