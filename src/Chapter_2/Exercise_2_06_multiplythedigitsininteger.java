@@ -17,10 +17,9 @@ public class Exercise_2_06_multiplythedigitsininteger {
         int tens = integer % 10;
         integer /= 10;
         int hundreds = integer % 10;
-        int sum = hundreds + tens + lessThan10;
 
-        System.out.println("The sum of the digits is " + sum);
+        int sum = hundreds + tens + lessThan10; // The equation
 
+        System.out.println("The sum of the digits is " + sum); // Display result
     }
-
 }

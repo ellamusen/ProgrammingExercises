@@ -17,13 +17,13 @@ public class Exercise_2_13_financialapplication_compoundvalue {
 
         int month = 6;
         for (int i = 1; i <= month; i++) {
-            if (i == 1) { // The first month has its own formula, which is different in all the other months
+            if (i == 1) { // The first month has its own equation, which is different in all the other months
                 balance = savings * interestRate;
             }
-            else { // The formula for every other month than the first
+            else { // The equation for every other month than the first
                 balance = ((savings + balance) * interestRate); // The new balance equals the former balance
             }
-            System.out.println("Month: " + i + "\tBalance: " + balance); // \t = tap
+            System.out.println("Month: " + i + "\tBalance: " + balance); // \t = tap // Display result
         }
     }
 }

@@ -6,15 +6,17 @@ public class Exercise_2_08_currenttime {
 
     public static void main(String[] args) {
 
+        System.out.println("Current time");
+
         Scanner input = new Scanner(System.in);
 
-        System.out.println("Current time");
         System.out.print("Enter the timezone offset to GMT: ");
-
         double gmt  = input.nextDouble();
 
+        // Get current milliseconds to calculate the other time units below
         long totalMilliseconds = System.currentTimeMillis();
 
+        // Calculations
         long totalSeconds = totalMilliseconds / 1000;
         long currentSecond = totalSeconds % 60;
         long totalMinutes = totalSeconds / 60;
@@ -22,10 +24,7 @@ public class Exercise_2_08_currenttime {
         long totalHours = totalMinutes / 60;
         long currentHour = totalHours % 24;
 
-        System.out.println("The current time is " + currentHour + ":"
-                + currentMinute + ":" + currentSecond);
-
-
+        // Display the result
+        System.out.println("The current time is " + currentHour + ":" + currentMinute + ":" + currentSecond);
     }
-
 }

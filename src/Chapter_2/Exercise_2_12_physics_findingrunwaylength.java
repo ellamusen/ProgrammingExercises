@@ -15,11 +15,10 @@ public class Exercise_2_12_physics_findingrunwaylength {
         double v = input.nextDouble(); // Take-off speed
         double a2 = input.nextDouble(); // Acceleration
 
-        double length = (v * v) / (a2 * 2); // Formula
+        double length = (v * v) / (a2 * 2); // The equation
 
-        DecimalFormat df = new DecimalFormat("#.###");
+        DecimalFormat df = new DecimalFormat("#.###"); // For trimming decimals in a double
 
-        System.out.println("The minimum runway length for this airplane is  " + df.format(length));
-
+        System.out.println("The minimum runway length for this airplane is  " + df.format(length)); // Display result
     }
 }
