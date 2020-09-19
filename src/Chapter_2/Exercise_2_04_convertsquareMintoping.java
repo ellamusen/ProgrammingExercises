@@ -2,7 +2,7 @@ package Chapter_2;
 
 import java.util.Scanner;
 
-public class Exercise_2_4_convertsquareMintoping {
+public class Exercise_2_04_convertsquareMintoping {
 
     public static void main(String[] args) {
 

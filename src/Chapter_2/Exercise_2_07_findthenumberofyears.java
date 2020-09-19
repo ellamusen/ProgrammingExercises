@@ -2,7 +2,7 @@ package Chapter_2;
 
 import java.util.Scanner;
 
-public class Exercise_2_7_findthenumberofyears {
+public class Exercise_2_07_findthenumberofyears {
 
     public static void main(String[] args) {
 

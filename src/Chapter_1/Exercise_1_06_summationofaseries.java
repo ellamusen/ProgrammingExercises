@@ -1,6 +1,6 @@
 package Chapter_1;
 
-public class Exercise_1_6_summationofaseries {
+public class Exercise_1_06_summationofaseries {
 
 
     public static void main(String[] args) {

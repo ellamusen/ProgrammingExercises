@@ -2,7 +2,7 @@ package Chapter_2;
 
 import java.util.Scanner;
 
-public class Exercise_2_8_currenttime {
+public class Exercise_2_08_currenttime {
 
     public static void main(String[] args) {
 

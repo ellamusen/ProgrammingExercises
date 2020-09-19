@@ -2,7 +2,7 @@ package Chapter_2;
 
 import java.util.Scanner;
 
-public class Exercise_2_2_computethevolumeofatriangel {
+public class Exercise_2_02_computethevolumeofatriangel {
 
     public static void main(String[] args) {
 

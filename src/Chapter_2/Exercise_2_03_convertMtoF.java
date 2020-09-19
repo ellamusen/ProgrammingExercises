@@ -2,7 +2,7 @@ package Chapter_2;
 
 import java.util.Scanner;
 
-public class Exercise_2_3_convertMtoF {
+public class Exercise_2_03_convertMtoF {
 
     public static void main(String[] args) {
 

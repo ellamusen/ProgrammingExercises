@@ -1,6 +1,6 @@
 package Chapter_1;
 
-public class Exercise_1_7_approximatepi {
+public class Exercise_1_07_approximatepi {
 
     public static void main(String[] args) {
 

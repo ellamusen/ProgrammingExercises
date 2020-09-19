@@ -1,6 +1,6 @@
 package Chapter_1;
 
-public class Exercise_1_8_areaandperimeterofacircle {
+public class Exercise_1_08_areaandperimeterofacircle {
 
     public static void main(String[] args) {
 

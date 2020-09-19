@@ -1,6 +1,6 @@
 package Chapter_1;
 
-public class Exercise_1_5_computerexpressions {
+public class Exercise_1_05_computerexpressions {
 
     public static void main(String[] args) {
 

@@ -2,7 +2,7 @@ package Chapter_2;
 
 import java.util.Scanner;
 
-public class Exercise_2_6_multiplythedigitsininteger {
+public class Exercise_2_06_multiplythedigitsininteger {
 
     public static void main(String[] args) {
 

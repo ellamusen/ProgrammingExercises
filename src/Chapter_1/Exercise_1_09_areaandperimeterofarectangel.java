@@ -1,6 +1,6 @@
 package Chapter_1;
 
-public class Exercise_1_9_areaandperimeterofarectangel {
+public class Exercise_1_09_areaandperimeterofarectangel {
 
     public static void main(String[] args) {
 

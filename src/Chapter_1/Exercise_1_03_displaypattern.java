@@ -1,6 +1,6 @@
 package Chapter_1;
 
-public class Exercise_1_3_displaypattern {
+public class Exercise_1_03_displaypattern {
 
         public static void main(String[] args) {
 

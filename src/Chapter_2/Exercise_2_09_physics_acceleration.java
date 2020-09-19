@@ -3,7 +3,7 @@ package Chapter_2;
 import java.text.*;
 import java.util.Scanner;
 
-public class Exercise_2_9_physics_acceleration {
+public class Exercise_2_09_physics_acceleration {
 
     public static void main(String[] args) {
 

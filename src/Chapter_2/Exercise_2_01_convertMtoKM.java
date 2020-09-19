@@ -2,7 +2,7 @@ package Chapter_2;
 
 import java.util.Scanner;
 
-public class Exercise_2_1_convertMtoKM {
+public class Exercise_2_01_convertMtoKM {
 
     public static void main(String[] args) {
 
