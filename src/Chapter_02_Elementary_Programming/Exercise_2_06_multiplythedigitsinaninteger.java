@@ -2,9 +2,11 @@ package Chapter_02_Elementary_Programming;
 
 import java.util.Scanner;
 
-public class Exercise_2_06_multiplythedigitsininteger {
+public class Exercise_2_06_multiplythedigitsinaninteger {
 
     public static void main(String[] args) {
+
+        System.out.println("Multiply the digits in an integer");
 
         Scanner input = new Scanner(System.in);
 
