@@ -1,4 +1,4 @@
-package Chapter_4_Mathematical_Functions_Characters_and_Strings;
+package Chapter_04_Mathematical_Functions_Characters_and_Strings;
 
 import java.util.Scanner;
 
