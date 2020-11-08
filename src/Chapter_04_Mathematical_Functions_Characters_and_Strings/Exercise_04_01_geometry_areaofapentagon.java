@@ -2,7 +2,7 @@ package Chapter_04_Mathematical_Functions_Characters_and_Strings;
 
 import java.util.Scanner;
 
-public class Exercise_4_01_geometry_areaofapentagon {
+public class Exercise_04_01_geometry_areaofapentagon {
 
     public static void main(String[] args) {
 

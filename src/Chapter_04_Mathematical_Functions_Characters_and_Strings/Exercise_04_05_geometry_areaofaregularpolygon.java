@@ -2,7 +2,7 @@ package Chapter_04_Mathematical_Functions_Characters_and_Strings;
 
 import java.util.Scanner;
 
-public class Exercise_4_05_geometry_areaofaregularpolygon {
+public class Exercise_04_05_geometry_areaofaregularpolygon {
 
     public static void main(String[] args) {
 

@@ -2,7 +2,7 @@ package Chapter_04_Mathematical_Functions_Characters_and_Strings;
 
 import java.util.Scanner;
 
-public class Exercise_4_04_geometry_areaofahexagon {
+public class Exercise_04_04_geometry_areaofahexagon {
 
     public static void main(String[] args) {
 
