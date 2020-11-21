@@ -46,6 +46,7 @@ public class Exercise_05_02_repeat_multiplications {
             long endTime = System.currentTimeMillis();
             long testTime = endTime - startTime;
 
+            System.out.println("\t");
             System.out.println("Correct count is " + correctCount + "\nTest time is " + testTime / 1000 + " seconds\n" + output);
         }
     }
