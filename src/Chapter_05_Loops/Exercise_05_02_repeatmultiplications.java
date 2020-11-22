@@ -2,7 +2,7 @@ package Chapter_05_Loops;
 
 import java.util.Scanner;
 
-public class Exercise_05_02_repeat_multiplications {
+public class Exercise_05_02_repeatmultiplications {
 
     public static void main(String[] args) {
 
